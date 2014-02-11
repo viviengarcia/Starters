@@ -2,3 +2,5 @@
 *.sublime-workspace
 .sass-cache
 .DS_Store
+_tmp
+hteumeuleu.php
